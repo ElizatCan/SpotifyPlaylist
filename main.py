@@ -17,8 +17,8 @@ print(songs_list)
 
 # ------- Spotify ---------- #
 
-Client_ID = "5b22b2c40d3642c69a616f8ed03d6706"
-Client_Secret = "b714d79aa7f246b89f47d763a9bf50c1"
+Client_ID = "YOUR CLIENT ID"
+Client_Secret = "YOUR CLIENT SECRET"
 Redirect_Url = "http://example.com"
 Cache_path = "token.txt"
 Scope = 'playlist-modify-public'
